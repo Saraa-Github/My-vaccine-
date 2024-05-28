@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "João",
+      "vaccines": [
+        {
+          "vaccineId": 1,
+          "name": "Covid-19",
+          "date": "2023-05-01"
+        }
+      ]
+    },
+    {
+      "id": "32f2",
+      "name": "julio",
+      "vaccines": []
+    },
+    {
+      "id": "346d",
+      "name": "\\\\a",
+      "vaccines": []
+    },
+    {
+      "id": "8ea4",
+      "name": "Rafael",
+      "vaccines": []
+    },
+    {
+      "id": "a0ec",
+      "name": "Teste",
+      "vaccines": []
+    }
+  ],
+  "vaccines": []
+}
